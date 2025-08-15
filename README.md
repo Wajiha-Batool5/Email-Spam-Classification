@@ -135,10 +135,14 @@ print(model.predict(email_vector))
 ## 📷 Screenshots
 
 **Model Comparison Chart:**
-![Model Comparison](screanshots\model_comparison.png)
+
+<img width="220" height="565" alt="confusion_matrices" src="https://github.com/user-attachments/assets/bec8c7d8-8fa7-4a13-b6b6-2d8c644c3020" />
+
 
 **Confusion Matrices Example:**
-![Confusion Matrices](screanshots\confusion_matrices.png)
+
+<img width="1232" height="710" alt="model_comparison" src="https://github.com/user-attachments/assets/7ea7addb-e713-471d-ba98-5005a906bfd5" />
+
 
 ---
 
