@@ -48,7 +48,8 @@ Email-Spam-Classification-main/
 ├── Email Spam Classification.ipynb   # Main notebook
 ├── README.md                          # Documentation
 ├── requirements.txt                   # Dependencies
-└── saved_models/                      # Saved models & vectorizer 
+├── saved_models/                      # Saved models & vectorizer 
+└── screanshots/                      # Images 
 ```
 
 ---
